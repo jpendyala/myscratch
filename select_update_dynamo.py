@@ -25,7 +25,7 @@ query_response = table.query(IndexName="INDEX_NAME", FilterExpression=myFilterEx
 
 pp.pprint(query_response)
 
-################################################################RUN BELOW TO DO UPDATE ###################################################################################
+##################################
 
 table_name = 'my-dynamo-db-table'
 
