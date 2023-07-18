@@ -1,0 +1,11 @@
+Handle Out Of Memory Error in Spark:
+=========================
+Handling out-of-memory errors in Spark when processing large datasets can be approached in several ways:
+
+1.Increase cluster resources: 
+2.Adjust Spark configurations: 
+3.Partition and cache data:
+4.Use data compression:
+5.Sampling and filtering:
+6.Use disk-based storage:
+7.Consider alternative storage options
